@@ -1,0 +1,36 @@
+.link-voltar{
+    margin: 5vh;
+    margin: 5vw;
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFF;
+    background-color: #6d6d6d;
+    padding: 1vh;
+    border: #6d6d6d solid 2px;
+    border-radius: 10px;
+}
+.link-voltar:hover{
+    font-weight: 500;
+    color: #6d6d6d;
+    background-color: #d8d8d8;
+}
+.post{
+    margin:0 auto;
+    justify-content: center;
+    max-width: 50vw;
+}
+.div-img{
+    width: 70%;
+}
+.div-img p{
+   font-size: 3vh;
+}
+.div-img img{
+    width: 50%;
+}
+.info-post{
+    display: grid;
+}
+.info-post p{
+    margin-left: 2vw;
+}
